@@ -7,7 +7,12 @@
 - [ ] Music editor
 - [ ] Menu (`RUNHUB`)
 ## VM Specs
-
+|Component|Specs|
+|:---:|:---:|
+|Display|128x128 tile display|
+|[Z-Disk](/docs/z-disks.md) size|32k|
+|Sound|4 8-bit chips: sine, square, triangle and sawtooth|
+|Code|[]()|
 
 ## Usage
  
