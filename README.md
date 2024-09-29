@@ -5,7 +5,7 @@
 - [ ] Script editor
 - [ ] Sprite/Map editor
 - [ ] Music editor
-- [ ] Menu (`> runhub`)
+- [ ] Menu (`> HUBRUN`)
 > [!NOTE]
 > Most of this project is just a work in progress which you can also find on [itch.io](https://gabeitch.io/)
 - - -
