@@ -1,6 +1,6 @@
 # ZenSekai
 
-**ZenSekai** is a virtualization of a fantasy console that you can write or save/load games for it. it's name comes from (全世界 *Pronounced: "Zen sekai"*) which means "whole world". it includesthe following: 
+**ZenSekai** is a virtualization of a fantasy console that you can write or save/load games for it. it's name comes from (全世界 *Pronounced: "Zen sekai"*) which means "whole world". it includes the following: 
 - [ ] A terminal
 - [ ] Script editor
 - [ ] Sprite/Map editor
