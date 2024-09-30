@@ -9,10 +9,10 @@
 ## VM Specs
 |Component|Specs|
 |:---:|:---:|
-|Display|128x128 tile display|
+|Display|128x128 16 colors|
 |[Z-Disk](/docs/z-disks.md) size|32k|
 |Sound|4 8-bit chips: sine, square, triangle and sawtooth|
-|Code|[ZenLang](/docs/zenlang.md)|
+|Code|[ZSjs](/docs/zsjs.md)|
 
 ## Usage
  
