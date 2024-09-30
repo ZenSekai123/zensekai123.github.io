@@ -18,8 +18,10 @@
 |Sprites|256 8x8 px|
 |Map|128x32 tiles|
 
-## Refsheet
-- [Docs](/docs/)
+## Some useful links
+- [ZENSEKAI Docs](/docs/)
+- [ZENSEKAI Official Website](https://zensekai123.github.io/)
+- [z-js coding night](https://zensekai123.github.io/)
 
 - - -
 > [!NOTE]
