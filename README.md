@@ -13,7 +13,7 @@
 |Display|128x128 16 colors|
 |[Z-Disk](/docs/z-disks.md) size|32k|
 |Sound|4 8-bit chips: sine, square, triangle and sawtooth|
-|Code|[ZJS](/docs/zjs-coding.md)|
+|Code|[Z-JS](/docs/z-js-coding.md)|
 
 ## Usage
  
