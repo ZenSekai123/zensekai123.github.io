@@ -21,7 +21,7 @@
 ## Some useful links
 - [ZENSEKAI Docs](/docs/)
 - [ZENSEKAI Official Website](https://zensekai123.github.io/)
-- [z-js coding night](https://zensekai123.github.io/)
+- [z-js coding night (Spotify Playlist)](https://open.spotify.com/playlist/0LwG2yZSDk4vnmNsTMk7y4?si=V3wh1f0yS_eeU9Vpe7IrEw&pi=pvnMeQr5Tc-VT)
 
 - - -
 > [!NOTE]
