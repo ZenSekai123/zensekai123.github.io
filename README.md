@@ -18,9 +18,10 @@
 |Sprites|256 8x8 px|
 |Map|128x32 tiles|
 
-## Usage
- 
+## Refsheet
+- [Docs](/docs/)
 
+- - -
 > [!NOTE]
 > Most of this project is just a work in progress which you can also find on [itch.io](https://gabeitch.io/)
 - - -
