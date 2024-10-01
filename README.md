@@ -5,7 +5,8 @@
 - [ ] Script editor
 - [ ] Sprite/Map editor
 - [ ] Music editor
-- [ ] Menu (`RUNHUB`)
+- [ ] Menu (runHub)
+- [ ] Multiplayer Connection
 
 ## VM Specs
 |Component|Specs|
