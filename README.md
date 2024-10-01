@@ -20,6 +20,7 @@
 
 ## Some useful links
 - [ZENSEKAI Docs](/docs/)
+- [ZENSEKAI Wiki](https://github.com/ZenSekai123/zensekai/wiki)
 - [ZENSEKAI Poster Infographic](/docs/img/cheatsheet.png) (*Pssst... you aren't a real ZENSEKAI developer if you have this poster!*)
 - [ZENSEKAI Official Website](https://zensekai123.github.io/)
 - [z-js coding night (Spotify Playlist)](https://open.spotify.com/playlist/0LwG2yZSDk4vnmNsTMk7y4?si=V3wh1f0yS_eeU9Vpe7IrEw&pi=pvnMeQr5Tc-VT)
