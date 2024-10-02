@@ -9,19 +9,20 @@
 - [ ] Multiplayer Connection
 
 ## VM Specs
-|Component|Specs|
-|:---:|:---:|
-|Display|128x128 16 colors|
-|[Z-Disk](/docs/z-disks.md) size|32k|
-|Sound|4 8-bit chips: sine, square, triangle and sawtooth|
-|Code|[Z-JS](/docs/z-js-coding.md)|
-|Sprites|256 8x8 px|
-|Map|128x32 tiles|
+
+|Component|Specs|  
+|:---:|:---:|  
+|Display|128x128 tiles, 16 colors|  
+|[Z-Disk](/docs/z-disks.md) size|32k|  
+|Sound|4 8-bit chips: sine, square, triangle and sawtooth|  
+|Code|[Z-JS](/docs/z-js-coding.md)|  
+|Sprites|256 8x8 px|  
+|Map|128x32 tiles|  
 
 ## Some useful links
 - [ZENSEKAI Docs](/docs/)
 - [ZENSEKAI Wiki](https://github.com/ZenSekai123/zensekai/wiki)
-- [ZENSEKAI Poster Infographic](/docs/img/cheatsheet.png) (*Pssst... you aren't a real ZENSEKAI developer if you have this poster!*)
+- [ZENSEKAI Poster Infographic](/docs/img/infographic.png) *(don't worry, you can have it if you want to)*
 - [ZENSEKAI Official Website](https://gabethecat.neocities.org/zensekai)
 - [z-js coding night (Spotify Playlist)](https://open.spotify.com/playlist/0LwG2yZSDk4vnmNsTMk7y4?si=V3wh1f0yS_eeU9Vpe7IrEw&pi=pvnMeQr5Tc-VT)
 
