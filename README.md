@@ -28,6 +28,6 @@
 
 - - -
 > [!NOTE]
-> Most of this project is just a work in progress which you can also find on [itch.io](https://gabeitch.io/)
+> Most of this project is just a work in progress which you can also find on [itch.io](https://gabethecat.itch.io/)
 - - -
 &copy; Gabesoft 2024-forever
